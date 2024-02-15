@@ -22,7 +22,7 @@ Integração com API do Spotify: Integrar-se API do Spotify para dados de músic
 - JS
 
 # Estrutura 
-## O projeto é organizado da seguinte forma:
+### O projeto é organizado da seguinte forma:
 
 index.html: Página principal.
 styles.css: Arquivo CSS para estilização.
