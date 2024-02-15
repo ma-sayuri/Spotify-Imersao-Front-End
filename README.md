@@ -36,6 +36,7 @@ Spotify: Todos os créditos de design ao Spotify.
 
 Maria Fernanda Sayuri
 
-https://www.linkedin.com/in/maria-fernanda-sayuri-43955a2b1
+Linkedin- https://www.linkedin.com/in/maria-fernanda-sayuri-43955a2b1
 
+...
 Obrigada por conferir meu projeto ;)
