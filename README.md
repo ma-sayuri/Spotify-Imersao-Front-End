@@ -19,7 +19,6 @@ O projeto replica com detalhes (no design e no layout) a página de início do S
 - CSS
 - JS
 
-
 # Estrutura 
 ### Organização do projeto:
 
@@ -27,6 +26,10 @@ index.html: Página principal.
 styles (css): Para a estilização.
 assets: Diretório de imagens e outros recursos.
 api-artists: Diretório de arquivos JSON para simular uma API fake com JSON Server.
+
+# Resultados
+
+
 
 # Créditos
 
