@@ -1,0 +1,100 @@
+{
+    "artists": [
+    {
+        "id": 1,
+        "name": "Nirvana",
+        "genre": "Rock",
+        "urlImg": "https://i.scdn.co/image/a4e10b79a642e9891383448cbf37d7266a6883d6"
+    },
+    {
+        "id": 2,
+        "name": "Taylor Swift",
+        "genre": "Pop",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4"
+    },
+    {
+        "id": 3,
+        "name": "Kanye West",
+        "genre": "Hip Hop",
+        "urlImg": "https://i.scdn.co/image/ab67616d0000b273fd61ea11e50ba0b7eade9466"
+    },
+    {
+        "id": 4,
+        "name": "Radiohead",
+        "genre": "Rock",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd"
+    },
+    {
+        "id": 5,
+        "name": "Lana Del Rey",
+        "genre": "Alt/Indie",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261"
+    },
+    {
+        "id": 6,
+        "name": "Jeff Buckley",
+        "genre": "Rock",
+        "urlImg": "https://i.scdn.co/image/ab67616d00001e02c1ae91b1545ea22026e17216"
+    },
+    {
+        "id": 7,
+        "name": "Jorge Ben Jor",
+        "genre": "MPB",
+        "urlImg": "https://i.scdn.co/image/ab67616d0000b273cfacf4141520fdf2aefd8c1c"
+    },
+    {
+        "id": 8,
+        "name": "Ice Cube",
+        "genre": "Hip Hop",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5eb650e79afafd00492e33d7b8c"
+    },
+    {
+        "id": 9,
+        "name": "The Strokes",
+        "genre": "Rock",
+        "urlImg": "https://i.scdn.co/image/ab67616100005174c3b137793230f4043feb0089"
+    },
+    {
+        "id": 10,
+        "name": "The Beatles",
+        "genre": "Rock",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433"
+    },
+    {
+        "id": 11,
+        "name": "Daft Punk",
+        "genre": "Eletrônica",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5eba7bfd7835b5c1eee0c95fa6e"
+    },
+    {
+        "id": 12,
+        "name": "The Smiths",
+        "genre": "Rock",
+        "urlImg": "https://i.scdn.co/image/ab67616d00001e02bc51b74ee86e2d2197dcc485"
+    },
+    {
+        "id": 13,
+        "name": "Ariana Grande",
+        "genre": "Pop",
+        "urlImg": "https://i.scdn.co/image/ab67616100005174d254ca4d4fb43ef3051be3d7"
+    },
+    {
+        "id": 14,
+        "name": "Mitski",
+        "genre": "Alt/Indie",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5ebafb309e27fdb45e093958f9c"
+    },
+    {
+        "id": 15,
+        "name": "Jung Kook",
+        "genre": "Pop",
+        "urlImg": "https://i.scdn.co/image/ab6761610000517440a7268dd742e5f63759b960"
+    },
+    {
+        "id": 16,
+        "name": "João Gomes",
+        "genre": "Forró",
+        "urlImg": "https://i.scdn.co/image/ab67706c0000da840325c055e018d55e6b6ac0b1"
+    }
+    ]
+}
