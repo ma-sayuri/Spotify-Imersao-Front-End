@@ -8,26 +8,24 @@ O objetivo deste projeto é recriar a página de destino do Spotify, servindo de
 
 # Sobre o projeto
 
-O projeto replica com detalhes (no design e no layout) a página de início do Spotify, sendo elaborado durante as aulas de Imersão Front-End, evento organizado pela Alura. Nele há um design responsivo, layout flexível, efeitos visuais e entre outros.
+O projeto replica com detalhes (no design e no layout) a página de início do Spotify, sendo elaborado durante as aulas de Imersão Front-End, evento organizado pela Alura. Nele há um design responsivo, layout flexível, efeitos visuais, funções interativas e entre outros.
 
-# Principais funcionalidades
-- Busca de música:  pesquisa para encontrar artistas, álbuns e faixas.
-Listas de Reprodução: Permitir criação, edição e exclusão listas de reprodução personalizadas.
-Integração com API do Spotify: Integrar-se API do Spotify para dados de música.
+# Principal funcionalidade
+- Busca: Função de pesquisa para encontrar artistas.
 
 # Tecnologias utilizadas
 ## Front end
-- HTML 
+- HTML ![html-icon](https://github.com/ma-sayuri/Spotify-Imersao-Front-End/assets/157142334/aa6a6e1f-e598-485f-9481-3cccac887c8c)
 - CSS
 - JS
 
 # Estrutura 
-### O projeto é organizado da seguinte forma:
+### Organização do projeto:
 
 index.html: Página principal.
-styles.css: Arquivo CSS para estilização.
+styles (css): Para a estilização.
 assets: Diretório de imagens e outros recursos.
-api-artists: Diretório de arquivos JSON para simular API com JSON Server.
+api-artists: Diretório de arquivos JSON para simular uma API fake com JSON Server.
 
 # Créditos
 
@@ -38,3 +36,5 @@ Spotify: Todos os créditos de design ao Spotify.
 Maria Fernanda Sayuri
 
 https://www.linkedin.com/in/maria-fernanda-sayuri-43955a2b1
+
+Obrigada por conferir meu projeto ;)
