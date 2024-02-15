@@ -15,9 +15,9 @@ O projeto replica com detalhes (no design e no layout) a página de início do S
 
 # Tecnologias utilizadas
 ## Front end
-- HTML ![html-icon](https://github.com/ma-sayuri/Spotify-Imersao-Front-End/assets/157142334/aa6a6e1f-e598-485f-9481-3cccac887c8c)
-- CSS ![css-icon](https://github.com/ma-sayuri/Spotify-Imersao-Front-End/assets/157142334/ac463cce-2dcc-4029-aa2d-9a5ae82a3275)
-- JS![js-icon](https://github.com/ma-sayuri/Spotify-Imersao-Front-End/assets/157142334/f3dba849-ea5b-4bf3-871f-f9129f26d289)
+- HTML
+- CSS
+- JS
 
 
 # Estrutura 
