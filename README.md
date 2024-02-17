@@ -10,9 +10,7 @@ O objetivo deste projeto é recriar a página de destino do Spotify, servindo de
 
 O projeto replica com detalhes (no design e no layout) a página de início do Spotify, sendo elaborado durante as aulas de Imersão Front-End, evento organizado pela Alura. Nele há um design responsivo, layout flexível, efeitos visuais, funções interativas e entre outros.
 
-# Principal funcionalidade
-
-Além de apresentar um layout de inspiração no spotify, também foi recriada a função de pesquisa - para encontrar artistas.
+Além disso, também foi recriada a função de pesquisa - para encontrar artistas.
 
 # Tecnologias utilizadas
 ## Front end
