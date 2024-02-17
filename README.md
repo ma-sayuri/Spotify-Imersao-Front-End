@@ -42,5 +42,5 @@ Maria Fernanda Sayuri
 
 Linkedin- https://www.linkedin.com/in/maria-fernanda-sayuri-43955a2b1
 
-...
+///
 Obrigada por conferir meu projeto ;)
