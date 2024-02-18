@@ -21,10 +21,10 @@ Além disso, também foi recriada a função de busca para encontrar artistas.
 # Estrutura 
 ## Organização do projeto:
 
-index.html: Para a página principal.
-styles (css): Para a estilização.
-assets: Diretório de imagens e outros recursos.
-api-artists: Diretório de arquivos JSON para simular uma API fake com JSON Server.
+- index.html: Para a página principal.
+- styles (css): Para a estilização.
+- assets: Diretório de imagens e outros recursos.
+- api-artists: Diretório de arquivos JSON para simular uma API fake com JSON Server.
 
 # Resultados
 ### Página Inicial:
@@ -36,8 +36,8 @@ api-artists: Diretório de arquivos JSON para simular uma API fake com JSON Serv
 
 # Créditos
 
--Spotify: Todos os créditos de design ao Spotify.
--Instrutores da Alura: Fernanda Degolin, Guilherme Lima e Mayara Cardoso.
+- Spotify: Todos os créditos de design ao Spotify.
+- Instrutores da Alura: Fernanda Degolin, Guilherme Lima e Mayara Cardoso.
 
 # Autor/Contato
 
