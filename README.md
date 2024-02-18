@@ -27,7 +27,7 @@ assets: Diretório de imagens e outros recursos.
 api-artists: Diretório de arquivos JSON para simular uma API fake com JSON Server.
 
 # Resultados
-## Página Iniciall:
+## Página Inicial:
 ![dashboard-spot](https://github.com/ma-sayuri/Spotify-Imersao-Front-End/assets/157142334/ced7b6fa-7fdc-4310-8288-ea50b597a918)
 
 ## Busca de Artistas:
