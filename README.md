@@ -27,16 +27,17 @@ assets: Diretório de imagens e outros recursos.
 api-artists: Diretório de arquivos JSON para simular uma API fake com JSON Server.
 
 # Resultados
-## Página Inicial:
-![dashboard-spot](https://github.com/ma-sayuri/Spotify-Imersao-Front-End/assets/157142334/ced7b6fa-7fdc-4310-8288-ea50b597a918)
+### Página Inicial:
+![dashboard-spot](https://github.com/ma-sayuri/Spotify-Imersao-Front-End/assets/157142334/66f53d8e-2f47-4a7b-8aa5-6e3402ca8d2e)
 
-## Busca de Artistas:
-![busca-artista-spot](https://github.com/ma-sayuri/Spotify-Imersao-Front-End/assets/157142334/0bbc7a48-b424-44e6-ad79-04c1e4dde3fd)
+### Busca de Artistas:
+![busca-spot](https://github.com/ma-sayuri/Spotify-Imersao-Front-End/assets/157142334/fa650dab-8c9c-405b-a972-ec041a9a76b5)
+
 
 # Créditos
 
-Spotify: Todos os créditos de design ao Spotify.
-Instrutores da Alura: Fernanda Degolin, Guilherme Lima e Mayara Cardoso.
+-Spotify: Todos os créditos de design ao Spotify.
+-Instrutores da Alura: Fernanda Degolin, Guilherme Lima e Mayara Cardoso.
 
 # Autor/Contato
 
