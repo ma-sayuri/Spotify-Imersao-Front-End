@@ -4,7 +4,7 @@
 
 # Visão geral
 
-O objetivo deste projeto foi recriar a página de destino do Spotify, servindo de vitrine para compartilhar minha primeira experiência com Front-End e algumas habilidades que adquiri através da Imersão Alura.
+O objetivo deste projeto foi recriar a página de destino do Spotify, servindo de vitrine para compartilhar minha primeira experiência com Front-End e algumas habilidades que adquiri.
 
 # Sobre o projeto
 
